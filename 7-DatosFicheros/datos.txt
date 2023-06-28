@@ -1,0 +1,3 @@
+hola
+soy un archivo simple de texto
+con tres líneas
